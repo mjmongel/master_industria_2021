@@ -5,6 +5,7 @@
  - Joan
  - Domingo
  - Beatriz
+ - Maria Jose
 
 -----
 # Professor
